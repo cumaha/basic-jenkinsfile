@@ -1,4 +1,4 @@
-node('agent'){
+node('rhel7'){
   stage 'first'
   echo 'worked'
 
